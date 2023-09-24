@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+.container{
+	
+	margin-left:30%;
+	margin-right:30%;
+	padding:5%;
+	background-color:red;
+	align:center;
+}
+img{
+	width:100px;
+	align:space-evenly;
+}
